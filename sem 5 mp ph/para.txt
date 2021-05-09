@@ -1,0 +1,9 @@
+PROJECT HUB BRINGS YOU A LARGE VARIETY OF PRJOECTS FROM WHICH YOU ARE ALLOWED TO PICK YOUR DESIRED PROJECT WITH THE SOURCE CODE AND DIVE DEEP AND EXPLORE.
+
+
+
+<h2>CONTACT DETAILS:</h2>
+			<p><img src="pics/usericon.jpg" height="80" width="80">:KRISHNA TEJA G<br></p>
+			<p><img src="pics/dailicon.jpg" height="80" width="80">:+91 7013842170<br></p>
+			<p><img src="pics/mailicon.jpg" height="80" width="80">:krishna20teja@gmail.com</p>
+			<p><img src="pics/instaicon.jpg" height="80" width="80">:krishnaa._.20</p>
